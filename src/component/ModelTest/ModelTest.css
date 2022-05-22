@@ -1,0 +1,21 @@
+.btn-manage {
+    color: white;
+    background-color: #7990f8;
+}
+
+.btn-manage:hover {
+    color: white;
+    background-color: #4a599e;
+}
+
+@media screen and (max-width:576px) {
+    .model-test-container {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .model-test-container,
+    .row {
+        --bs-gutter-x: 3rem !important;
+    }
+}

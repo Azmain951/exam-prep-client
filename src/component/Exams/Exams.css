@@ -1,0 +1,43 @@
+.answer-option:hover {
+    background-color: #dae7ff;
+}
+
+.finish-btn {
+    background-color: #46538F;
+    color: white;
+}
+
+.finish-btn:hover {
+    background-color: #5c6db8;
+}
+
+.btn-link:hover {
+    color: crimson;
+}
+
+.btn:focus,
+.btn:active:focus,
+.btn.active:focus,
+.btn.focus,
+.btn:active.focus,
+.btn.active.focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.score-section {
+    background-color: #dae7ff;
+}
+
+.tickIcon {
+    font-size: 40px;
+    color: white;
+    background-color: lime;
+    border-radius: 50%;
+}
+
+span {
+    color: rgb(85, 85, 85);
+    font-size: larger;
+    font-weight: 600;
+}

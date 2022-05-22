@@ -1,0 +1,14 @@
+.body {
+    background-color: #5968aa;
+}
+
+.off-canvas {
+    background-color: #EBF2FF;
+    border-radius: 20px;
+}
+
+@media screen and (max-width:576px) {
+    .off-canvas {
+        width: 90% !important;
+    }
+}

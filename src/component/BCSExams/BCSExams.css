@@ -1,0 +1,10 @@
+.bcs-test-card {
+    color: white;
+    background: linear-gradient(to right, #2b5876, #4e4376);
+    width: 15rem;
+}
+
+.bcs-test-card a {
+    text-decoration: none;
+    color: white;
+}

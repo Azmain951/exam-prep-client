@@ -1,0 +1,10 @@
+.test-card {
+    color: white;
+    background: linear-gradient(to right, #141e30, #243b55);
+    width: 15rem;
+}
+
+.test-card a {
+    text-decoration: none;
+    color: white;
+}

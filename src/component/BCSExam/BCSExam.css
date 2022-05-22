@@ -1,0 +1,27 @@
+@media screen and (max-width:576px) {
+    .exam-section {
+        width: 95% !important;
+    }
+
+    .time-section {
+        margin-top: 20px;
+        width: 95% !important;
+    }
+
+    .question-count-container {
+        display: block !important;
+        text-align: center;
+    }
+
+    .question-no {
+        display: none;
+    }
+
+    .answer-option {
+        width: 80% !important;
+    }
+
+    .finish-btn {
+        width: 50% !important;
+    }
+}

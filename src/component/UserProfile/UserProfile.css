@@ -1,0 +1,26 @@
+.user p,
+.user h4 {
+    margin: 0;
+    padding: 0;
+}
+
+.user p {
+    color: rgba(245, 245, 245, 0.692);
+    font-weight: 700;
+}
+
+.user-info {
+    background-color: #46538F;
+    color: white;
+}
+
+@media screen and (max-width:576px) {
+    .user-info {
+        display: block !important;
+        border-radius: 20px !important;
+    }
+
+    .user-info h4 {
+        margin-bottom: 20px;
+    }
+}
